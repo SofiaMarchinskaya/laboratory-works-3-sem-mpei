@@ -3,4 +3,4 @@
 ## Описание
 Программы работают с аргументами функции main. Ниже приведена инструкция для разных редакторов
 ### Clion
-![alt text](https://drive.google.com/file/d/1o0XrjigQ8vl32E8wyIecJamDrnMaxLsP/view?usp=sharing)
+
