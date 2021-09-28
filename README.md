@@ -1,2 +1,2 @@
 # Лабораторные работы по курсу "Языки и методы программирования" в НИУ МЭИ
-[Конспект лекций по С/С++](http://natalia.appmat.ru/c%26c%2B%2B/index.php?sezione=compiti)
+Задания взяты с сайта [Конспект лекций по С/С++](http://natalia.appmat.ru/c%26c%2B%2B/index.php?sezione=compiti)
