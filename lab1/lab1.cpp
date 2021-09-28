@@ -35,7 +35,7 @@ void ArrayOutput(int n, double x[], double a,double b){
         cout<<x[i]<<" ";
     }
 }
-//функция, вычисляющая произведение элементов строки, входящих в заданный диапазон a b
+//функция, вычисляющая произведение элементов массива, входящих в заданный диапазон a b
 double MultiplyRange(double x[], int n, double a, double b, bool &haveInRange){
     double res=1;//результат произведения
     for(int i = 0; i<n; i++){
